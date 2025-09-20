@@ -8,3 +8,6 @@ This week, I didn't really use AI during my practice problems. I only used ChatG
 explain a few terms for me, but other than that, I didn't use it. It wasn't used to 
 complete any problems or debugging. 
 https://chatgpt.com/share/68c6f5e3-a7d8-8004-a45a-ec3a4c6795be
+
+Week 2
+This week, I didn't use any AI during my problems. However, for our discussion on canvas, I ended up trying a new AI named Perplexity, and was let down on it. However, it was never used on an assignment, so I didn't document it at all. 
