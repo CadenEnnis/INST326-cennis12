@@ -11,3 +11,6 @@ https://chatgpt.com/share/68c6f5e3-a7d8-8004-a45a-ec3a4c6795be
 
 Week 2
 This week, I didn't use any AI during my problems. However, for our discussion on canvas, I ended up trying a new AI named Perplexity, and was let down on it. However, it was never used on an assignment, so I didn't document it at all. 
+
+Week 3 
+This week, I did use a bit of AI on my assignment. I found out that Colab has Gemini built into it. I tested it out with some debugging on problems, and while helpful with identifying what part of your code is wrong, it is also easy to hit the wrong button. I hit the wrong button a few times, and it wiped all my code and replaced it with its own. I also couldn't figure out how to paste my conversation with it into here. 
