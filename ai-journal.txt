@@ -14,3 +14,5 @@ This week, I didn't use any AI during my problems. However, for our discussion o
 
 Week 3 
 This week, I did use a bit of AI on my assignment. I found out that Colab has Gemini built into it. I tested it out with some debugging on problems, and while helpful with identifying what part of your code is wrong, it is also easy to hit the wrong button. I hit the wrong button a few times, and it wiped all my code and replaced it with its own. I also couldn't figure out how to paste my conversation with it into here. 
+
+Week 4: I used the built-in Gemini feature a few times to do small debugging in this week's assignment in Colab, but other than the debugging, I did not use AI at all. 
