@@ -18,3 +18,5 @@ This week, I did use a bit of AI on my assignment. I found out that Colab has Ge
 Week 4: I used the built-in Gemini feature a few times to do small debugging in this week's assignment in Colab, but other than the debugging, I did not use AI at all. 
 
 Week 5: I used the built-in Gemini feature a few times on some problems in this weeks assignment for debugging on code I couldn't fix myself/couldn't find the mistake, but I did not use it to generate answers for me. 
+
+Week 6: I did not use any AI this week other than some small debugging (usually small typos or misspellings), and I did ask Gemini once to give me an example of what Problem 18 was asking, as I was stuck on the meaning of it. 
