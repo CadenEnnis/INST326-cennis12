@@ -20,3 +20,5 @@ Week 4: I used the built-in Gemini feature a few times to do small debugging in 
 Week 5: I used the built-in Gemini feature a few times on some problems in this weeks assignment for debugging on code I couldn't fix myself/couldn't find the mistake, but I did not use it to generate answers for me. 
 
 Week 6: I did not use any AI this week other than some small debugging (usually small typos or misspellings), and I did ask Gemini once to give me an example of what Problem 18 was asking, as I was stuck on the meaning of it. 
+
+Week 7: Once again, I did not use any AI this weke other than the occasional Gemini debugging assistance in Google Colab, such as debugging and fixing small mistakes for me. 
