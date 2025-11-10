@@ -22,3 +22,5 @@ Week 5: I used the built-in Gemini feature a few times on some problems in this 
 Week 6: I did not use any AI this week other than some small debugging (usually small typos or misspellings), and I did ask Gemini once to give me an example of what Problem 18 was asking, as I was stuck on the meaning of it. 
 
 Week 7: Once again, I did not use any AI this weke other than the occasional Gemini debugging assistance in Google Colab, such as debugging and fixing small mistakes for me. 
+
+Week 8: This week, I used a bit of AI to try and debug exercise 11, however, it "fixed" my issue by tampering with every other cell. When I told it to revert its changes, it wiped every one of my cells clear. I did my best to fix my cells to how they were before the changes, other than that, I did not use AI. 
