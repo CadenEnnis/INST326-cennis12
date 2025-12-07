@@ -28,3 +28,5 @@ Week 8: This week, I used a bit of AI to try and debug exercise 11, however, it 
 Week 9: This week, once more, didn't really use AI for my work. I did use Gemini for debugging again on certain problems, mostly on problems after 15. The most help I had with Gemini debugging was on the last problem. 
 
 Week 10: I didn't really use Ai again this week, I did have Gemini help me debug at points throughout my work but other than small debugging, I didn't use it
+
+Week 12: No AI usage again this week. 
